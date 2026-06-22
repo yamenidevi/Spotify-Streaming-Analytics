@@ -1,0 +1,151 @@
+User_ID,Country,Subscription_Type,Join_Date
+1,France,Free,2012-06-23
+2,United Kingdom,Free,2008-08-09
+3,France,Premium Family,2008-04-04
+4,Canada,Free,2008-05-29
+5,United States,Premium Individual,2006-11-26
+6,Australia,Premium Individual,2022-01-14
+7,Australia,Free,2019-07-11
+8,United Kingdom,Premium Family,2023-04-30
+9,Spain,Premium Individual,2013-12-09
+10,United Kingdom,Free,2023-06-07
+11,Brazil,Free,2008-06-23
+12,Brazil,Free,2012-03-28
+13,Spain,Premium Individual,2018-05-02
+14,United States,Premium Family,2008-01-28
+15,Australia,Premium Duo,2020-03-06
+16,Argentina,Free,2010-08-15
+17,Mexico,Free,2011-06-02
+18,India,Premium Student,2011-07-13
+19,Italy,Free,2016-06-23
+20,France,Free,2014-08-11
+21,Brazil,Premium Individual,2022-01-18
+22,Poland,Premium Individual,2019-12-21
+23,France,Premium Individual,2011-10-19
+24,United States,Free,2020-08-29
+25,Mexico,Free,2013-07-31
+26,Italy,Premium Duo,2011-06-12
+27,Netherlands,Premium Duo,2015-04-22
+28,United Kingdom,Free,2019-01-11
+29,Argentina,Free,2021-01-03
+30,Sweden,Premium Family,2020-09-22
+31,Germany,Free,2011-11-03
+32,India,Premium Individual,2023-01-23
+33,Canada,Premium Family,2015-04-07
+34,Brazil,Premium Student,2009-05-30
+35,Sweden,Free,2007-05-13
+36,Italy,Free,2009-11-23
+37,Spain,Premium Individual,2007-09-25
+38,Brazil,Premium Individual,2016-10-21
+39,Australia,Premium Student,2006-07-26
+40,France,Free,2018-05-08
+41,India,Premium Duo,2013-12-08
+42,United States,Premium Individual,2016-06-25
+43,United States,Premium Individual,2022-06-13
+44,United Kingdom,Premium Individual,2010-04-25
+45,Sweden,Free,2020-05-01
+46,United Kingdom,Premium Individual,2019-12-19
+47,United States,Free,2009-12-06
+48,Australia,Premium Duo,2018-03-15
+49,South Korea,Premium Individual,2017-04-07
+50,United States,Premium Family,2024-12-17
+51,Spain,Free,2011-09-17
+52,Argentina,Premium Family,2008-03-24
+53,Mexico,Premium Duo,2023-05-14
+54,Australia,Free,2021-02-07
+55,Germany,Premium Individual,2012-04-02
+56,Australia,Premium Individual,2011-01-22
+57,South Korea,Premium Duo,2021-10-12
+58,United States,Free,2021-05-16
+59,France,Premium Individual,2017-11-30
+60,Germany,Free,2007-09-29
+61,Brazil,Premium Individual,2011-06-21
+62,Canada,Free,2022-03-08
+63,Canada,Free,2007-01-05
+64,Italy,Free,2011-08-24
+65,United Kingdom,Premium Individual,2018-05-27
+66,United States,Premium Family,2019-02-11
+67,Canada,Free,2016-11-30
+68,Spain,Free,2008-06-25
+69,France,Free,2015-07-12
+70,Germany,Premium Individual,2021-05-30
+71,France,Premium Individual,2007-09-01
+72,Brazil,Free,2008-10-04
+73,United Kingdom,Free,2016-05-15
+74,United States,Free,2016-09-06
+75,United Kingdom,Premium Family,2016-03-31
+76,Spain,Premium Family,2008-07-03
+77,United States,Premium Student,2006-08-21
+78,Russia,Premium Family,2011-08-11
+79,United States,Premium Individual,2011-02-07
+80,Italy,Premium Family,2009-12-31
+81,Brazil,Premium Student,2012-04-03
+82,South Korea,Premium Duo,2012-09-14
+83,Germany,Premium Student,2023-11-17
+84,Australia,Premium Individual,2009-10-12
+85,United States,Free,2007-08-15
+86,Canada,Premium Individual,2023-01-31
+87,Brazil,Free,2016-12-31
+88,Sweden,Premium Family,2009-11-02
+89,United States,Premium Individual,2010-06-23
+90,United States,Free,2011-08-01
+91,Brazil,Premium Family,2019-01-31
+92,United Kingdom,Premium Individual,2020-03-13
+93,United States,Premium Individual,2018-12-26
+94,Sweden,Premium Family,2010-11-21
+95,France,Free,2012-04-06
+96,Brazil,Premium Individual,2013-01-13
+97,Germany,Premium Family,2007-12-08
+98,United States,Premium Individual,2018-12-08
+99,Indonesia,Free,2011-02-02
+100,Sweden,Free,2014-02-19
+101,Argentina,Premium Family,2014-08-06
+102,United Kingdom,Premium Individual,2018-06-29
+103,Mexico,Premium Individual,2024-05-29
+104,France,Free,2024-08-19
+105,Australia,Premium Family,2008-08-18
+106,Poland,Free,2008-11-23
+107,Argentina,Premium Individual,2009-10-17
+108,United Kingdom,Premium Individual,2022-05-27
+109,Brazil,Premium Individual,2012-03-24
+110,Sweden,Free,2007-06-13
+111,United States,Premium Individual,2012-07-06
+112,United States,Free,2009-03-29
+113,France,Free,2022-12-07
+114,Germany,Premium Individual,2018-11-20
+115,United States,Free,2021-10-21
+116,Japan,Premium Individual,2014-08-03
+117,Canada,Free,2009-03-02
+118,United States,Free,2024-02-29
+119,Russia,Free,2014-05-02
+120,United States,Free,2008-08-12
+121,Brazil,Premium Individual,2015-06-04
+122,Russia,Premium Individual,2011-08-14
+123,Italy,Premium Student,2024-06-28
+124,United States,Premium Individual,2010-05-01
+125,Mexico,Free,2015-07-17
+126,Spain,Premium Family,2024-06-28
+127,United Kingdom,Free,2022-01-13
+128,United States,Premium Family,2016-11-11
+129,United Kingdom,Premium Duo,2016-08-18
+130,Brazil,Premium Duo,2011-05-31
+131,United Kingdom,Premium Individual,2015-03-31
+132,Brazil,Premium Family,2023-08-27
+133,United Kingdom,Premium Individual,2015-04-10
+134,France,Premium Family,2013-09-25
+135,Poland,Free,2012-03-01
+136,United States,Premium Student,2012-04-05
+137,United States,Premium Individual,2014-01-22
+138,Mexico,Free,2019-11-27
+139,Indonesia,Free,2019-03-29
+140,United States,Free,2016-02-02
+141,United States,Premium Family,2018-05-20
+142,Mexico,Premium Family,2022-11-02
+143,France,Free,2007-11-17
+144,Turkey,Premium Family,2020-04-13
+145,Brazil,Premium Family,2022-06-14
+146,Japan,Premium Individual,2021-04-07
+147,Brazil,Premium Individual,2012-12-09
+148,Australia,Free,2021-03-22
+149,Poland,Premium Individual,2010-03-18
+150,Canada,Free,2018-08-06

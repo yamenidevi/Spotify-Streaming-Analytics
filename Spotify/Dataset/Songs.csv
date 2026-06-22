@@ -1,0 +1,201 @@
+Song_ID,Song_Name,Artist_ID,Duration,Release_Year
+1,Blinding Lights,1,03:20,2019
+2,Starboy,1,03:50,2016
+3,Save Your Tears,1,03:35,2020
+4,Can't Feel My Face,1,03:35,2015
+5,Die For You,1,04:20,2016
+6,Anti-Hero,2,03:21,2022
+7,Shake It Off,2,03:39,2014
+8,Cruel Summer,2,02:58,2019
+9,Love Story,2,03:55,2008
+10,Blank Space,2,03:51,2014
+11,God's Plan,3,03:19,2018
+12,One Dance,3,02:53,2016
+13,Hotline Bling,3,04:27,2015
+14,In My Feelings,3,03:37,2018
+15,Started From the Bottom,3,03:14,2013
+16,Titi Me Pregunto,4,04:03,2022
+17,Me Porto Bonito,4,02:55,2022
+18,Dakiti,4,03:32,2020
+19,Moscow Mule,4,04:38,2022
+20,Efecto,4,02:51,2022
+21,Shape of You,5,03:53,2017
+22,Perfect,5,04:23,2017
+23,Thinking Out Loud,5,04:41,2014
+24,Bad Habits,5,03:51,2021
+25,Photograph,5,04:18,2014
+26,Bad Guy,6,03:14,2019
+27,Happier Than Ever,6,04:58,2021
+28,Ocean Eyes,6,03:20,2016
+29,Therefore I Am,6,02:54,2020
+30,Lovely,6,03:20,2018
+31,7 Rings,7,02:58,2019
+32,"Thank U, Next",7,03:27,2018
+33,Problem,7,03:33,2014
+34,positions,7,02:52,2020
+35,Break Free,7,03:26,2014
+36,Sunflower,8,02:38,2018
+37,Rockstar,8,03:39,2017
+38,Circles,8,03:35,2019
+39,Congratulations,8,03:38,2016
+40,Better Now,8,03:50,2018
+41,Levitating,9,03:23,2020
+42,Don't Start Now,9,03:03,2019
+43,Physical,9,03:13,2020
+44,New Rules,9,03:29,2017
+45,One Kiss,9,03:34,2018
+46,HUMBLE.,10,02:57,2017
+47,DNA.,10,03:05,2017
+48,Not Like Us,10,04:34,2024
+49,Swimming Pools,10,05:13,2012
+50,Alright,10,03:39,2015
+51,As It Was,11,02:37,2022
+52,Watermelon Sugar,11,02:54,2019
+53,Adore You,11,03:27,2019
+54,Late Night Talking,11,02:57,2022
+55,Golden,11,03:28,2019
+56,drivers license,12,04:02,2021
+57,good 4 u,12,02:58,2021
+58,vampire,12,03:39,2023
+59,deja vu,12,03:35,2021
+60,brutal,12,02:22,2021
+61,Sorry,13,03:20,2015
+62,Love Yourself,13,03:53,2015
+63,Stay,13,02:21,2021
+64,Peaches,13,03:18,2021
+65,Baby,13,03:33,2010
+66,Kill Bill,14,02:33,2022
+67,Snooze,14,03:21,2022
+68,Good Days,14,04:39,2020
+69,Supermodel,14,03:03,2017
+70,Nobody Gets Me,14,03:16,2022
+71,Middle Child,15,03:29,2019
+72,No Role Modelz,15,04:54,2014
+73,Apparently,15,04:46,2014
+74,Power Trip,15,04:32,2013
+75,Love Yourz,15,03:45,2014
+76,CUFF IT,16,03:44,2022
+77,Crazy in Love,16,03:56,2003
+78,Halo,16,04:21,2008
+79,Formation,16,03:26,2016
+80,Single Ladies,16,03:13,2008
+81,SICKO MODE,17,05:12,2018
+82,Goosebumps,17,04:03,2016
+83,Antidote,17,04:04,2015
+84,HIGHEST IN THE ROOM,17,02:57,2019
+85,BUTTERFLY EFFECT,17,03:11,2017
+86,Umbrella,18,04:36,2007
+87,We Found Love,18,03:36,2011
+88,Diamonds,18,03:45,2012
+89,Stay,18,04:00,2012
+90,Work,18,03:36,2016
+91,Lose Yourself,19,05:26,2002
+92,Without Me,19,04:50,2002
+93,Rap God,19,06:04,2013
+94,Love The Way You Lie,19,04:23,2010
+95,Slim Shady,19,04:57,1999
+96,Rolling in the Deep,20,03:48,2010
+97,Someone Like You,20,04:45,2011
+98,Hello,20,04:55,2015
+99,Easy On Me,20,03:44,2021
+100,Set Fire to the Rain,20,04:01,2011
+101,Dynamite,21,03:19,2020
+102,Butter,21,02:44,2021
+103,Boy With Luv,21,03:49,2019
+104,DNA,21,03:43,2017
+105,Fake Love,21,04:02,2018
+106,Summertime Sadness,22,04:25,2012
+107,Young and Beautiful,22,03:38,2013
+108,Video Games,22,04:40,2011
+109,Born To Die,22,04:18,2012
+110,Blue Jeans,22,03:30,2012
+111,Mask Off,23,03:31,2017
+112,Life Is Good,23,03:58,2020
+113,March Madness,23,04:08,2015
+114,Jumpman,23,02:59,2015
+115,Turn On the Lights,23,04:22,2012
+116,Super Bass,24,03:20,2010
+117,Anaconda,24,04:12,2014
+118,Starships,24,03:29,2012
+119,Bang Bang,24,03:29,2014
+120,Only,24,04:20,2014
+121,Yellow,25,04:29,2000
+122,The Scientist,25,05:09,2002
+123,Fix You,25,04:55,2005
+124,Viva la Vida,25,04:02,2008
+125,A Sky Full of Stars,25,04:28,2014
+126,Stronger,26,05:11,2007
+127,Gold Digger,26,03:28,2005
+128,Flashing Lights,26,03:57,2007
+129,Runaway,26,09:08,2010
+130,All Falls Down,26,03:37,2004
+131,Espresso,27,02:55,2024
+132,Please Please Please,27,03:06,2024
+133,Feather,27,02:53,2023
+134,Nonsense,27,02:57,2022
+135,because i liked a boy,27,02:54,2023
+136,Last Night,28,03:07,2023
+137,Wasted on You,28,03:39,2021
+138,More Than My Hometown,28,03:18,2020
+139,7 Summers,28,03:24,2020
+140,Sand in My Boots,28,04:08,2021
+141,Bodak Yellow,29,03:44,2017
+142,I Like It,29,04:08,2018
+143,WAP,29,03:23,2020
+144,Money,29,03:06,2018
+145,Please Me,29,03:26,2019
+146,Say So,30,03:57,2019
+147,Kiss Me More,30,03:28,2021
+148,Need to Know,30,03:34,2021
+149,Woman,30,02:51,2021
+150,Streets,30,03:12,2019
+151,Drip Too Hard,31,02:17,2018
+152,Emotionally Scarred,31,03:54,2020
+153,The Bigger Picture,31,03:59,2020
+154,Sum 2 Prove,31,02:55,2020
+155,Yes Indeed,31,02:38,2018
+156,Ella Baila Sola,32,02:52,2023
+157,La Bebe,32,03:01,2023
+158,PRC,32,02:28,2023
+159,Bzrp Music Sessions #55,32,03:16,2023
+160,Teka,32,03:04,2023
+161,Truth Hurts,33,02:53,2017
+162,Good as Hell,33,02:38,2016
+163,Juice,33,02:58,2019
+164,About Damn Time,33,03:13,2022
+165,Cuz I Love You,33,02:51,2019
+166,Fast Car,34,03:26,2023
+167,When It Rains It Pours,34,03:21,2017
+168,Beautiful Crazy,34,03:17,2018
+169,Beer Never Broke My Heart,34,03:04,2019
+170,Hurricane,34,03:41,2016
+171,Rockstar,35,03:39,2017
+172,a lot,35,05:37,2018
+173,Bank Account,35,03:29,2017
+174,Immortal,35,03:25,2018
+175,No Heart,35,02:49,2016
+176,PROVENZA,36,03:38,2022
+177,TQG,36,03:23,2023
+178,CAIRO,36,03:30,2023
+179,Mamiii,36,03:52,2022
+180,Bichota,36,03:03,2020
+181,Uptown Funk,37,04:30,2014
+182,Just the Way You Are,37,03:40,2010
+183,Grenade,37,03:42,2010
+184,Leave the Door Open,37,04:02,2021
+185,That's What I Like,37,03:26,2016
+186,Believer,38,03:24,2017
+187,Thunder,38,03:07,2017
+188,Radioactive,38,03:07,2012
+189,Demons,38,02:57,2012
+190,Enemy,38,02:52,2021
+191,Flowers,39,03:21,2023
+192,Wrecking Ball,39,03:42,2013
+193,Party in the U.S.A.,39,03:22,2009
+194,Midnight Sky,39,03:43,2020
+195,The Climb,39,03:53,2009
+196,Stay With Me,40,02:52,2014
+197,Unholy,40,02:36,2022
+198,I'm Not the Only One,40,03:54,2014
+199,Writing's on the Wall,40,04:41,2015
+200,Lay Me Down,40,03:48,2014
